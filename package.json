@@ -1,0 +1,29 @@
+{
+  "name": "gt-server",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^0.16.1",
+    "firebase": "^3.9.0",
+    "aws-sdk": "^2.49.0",
+    "body-parser": "~1.17.1",
+    "cors": "^2.8.3",
+    "express": "~4.15.2",
+    "express-session": "^1.15.2",
+    "massive": "^2.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GoodTurn/gt-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GoodTurn/gt-server/issues"
+  },
+  "homepage": "https://github.com/GoodTurn/gt-server#readme"
+}
