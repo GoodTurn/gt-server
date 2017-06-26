@@ -5,3 +5,4 @@ Things to fix on backend:
 (3) perform login actions on backend
 (4) reformat schema to get rid of JSON storage
 (5) reformat schema to add service functionality
+(6) sessions
